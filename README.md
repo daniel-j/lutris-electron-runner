@@ -1,3 +1,9 @@
+Repository has moved!
+---
+
+https://github.com/lutris/web-runner
+---
+
 Web runner for [Lutris](https://lutris.net/)
 ===
 
